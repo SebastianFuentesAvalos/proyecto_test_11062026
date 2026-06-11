@@ -1,0 +1,3 @@
+# Informe de Factibilidad
+
+Redacta aquí el contenido del documento...
