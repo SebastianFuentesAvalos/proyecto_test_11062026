@@ -1,0 +1,3 @@
+# Documento de Misión y Visión
+
+Redacta aquí el contenido del documento...
