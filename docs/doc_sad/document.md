@@ -1,0 +1,3 @@
+# Documento de Arquitectura (SAD)
+
+Redacta aquí el contenido del documento...
